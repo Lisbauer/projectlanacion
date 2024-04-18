@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .group-date{
+        @apply
+        text-3xl text-gray-600
+        px-3 py-4
+        font-bold tracking-widest
+    }
+    .timeline {
+        @apply
+            border-l-4 border-gray-200
+            ml-3 py-16
+            space-y-14
+    }
+    .dot{
+        @apply
+            absolute top-5 -left-3.5
+            bg-blue-400
+            h-6 w-6
+            rounded-full
+            border-4 border-white
+    }
+    .timeline-date{
+        @apply
+            text-xs font-bold
+            opacity-40 tracking-widest
+    }
+    .timeline-title{
+        @apply
+            text-3xl text-gray-600 font-semibold
+            tracking-wide mb-2
+    }
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*import font*/
+@font-face {
+    font-family: 'SuecasLab';
+    src: url('./assets/fonts/suecaslab-medium.woff2');
+}
+@font-face {
+    font-family: 'SuecasLab-Bold';
+    src: url('./assets/fonts/SuecasLab-Bold.woff');
+}
