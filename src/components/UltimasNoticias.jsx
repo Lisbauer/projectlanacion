@@ -10,7 +10,7 @@ const UltimasNoticias = () => {
           </h1>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3">
-            <a href="#" target="blank" className="flex justify-center">
+            <a href="https://www.lanacion.com.ar/tema/dengue-tid12301/" target="blank" className="flex justify-center">
               <article className="h-[320px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
                 <img
                   className="h-[180px] w-full object-cover"
@@ -29,7 +29,7 @@ const UltimasNoticias = () => {
               </article>
             </a>
 
-            <a href="#" target="blank" className="flex justify-center">
+            <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
               <article className="h-[320px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
                 <img
                   className="h-[180px] w-full object-cover"
@@ -48,7 +48,7 @@ const UltimasNoticias = () => {
               </article>
             </a>
 
-            <a href="#" target="blank" className="flex justify-center">
+            <a href="https://www.lanacion.com.ar/politica/estados-unidos-aprobo-la-venta-de-un-avion-basler-bt-67-a-la-argentina-por-us-143000000-nid18042024/" target="blank" className="flex justify-center">
               <article className="h-[320px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
                 <img
                   className="h-[180px] w-full object-cover"
@@ -67,7 +67,7 @@ const UltimasNoticias = () => {
               </article>
             </a>
 
-            <a href="#" target="blank" className="flex justify-center">
+            <a href="https://www.lanacion.com.ar/economia/el-gobierno-ya-presento-la-cautelar-contra-las-prepagas-y-propuso-un-sistema-de-devolucion-del-nid17042024/" target="blank" className="flex justify-center">
               <article className="h-[320px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
                 <img
                   className="h-[180px] w-full object-cover"
@@ -96,7 +96,7 @@ const UltimasNoticias = () => {
         <div className="timeline">
           <div className="relative">
             <div className="dot"></div>
-           <a href="#" target="blank"> <div className="pl-10 ">
+           <a href="https://www.lanacion.com.ar/politica/senado-como-se-gesto-el-aumento-de-dietas-con-el-que-casi-todos-estuvieron-de-acuerdo-nid18042024/" target="blank"> <div className="pl-10 ">
               <span className="timeline-date">18 de abril</span>
               <h3 className="timeline-title font-suecaslab1">Senado:</h3>
               <p className="text-grey-500 transition-colors duration-300 hover:text-gray-400">
@@ -108,7 +108,7 @@ const UltimasNoticias = () => {
 
           <div className="relative">
             <div className="dot"></div>
-           <a href="#" target="blank"> <div className="pl-10">
+           <a href="https://www.lanacion.com.ar/politica/senado-esta-vez-victoria-villarruel-quedo-exceptuada-de-la-furia-de-milei-por-el-aumento-de-las-nid18042024/#:~:text=Quien%20qued%C3%B3%20exenta%20del%20enojo,contra%20de%20la%20postura%20presidencial." target="blank"> <div className="pl-10">
               <span className="timeline-date">18 de abril</span>
               <h3 className="timeline-title font-suecaslab1">Senado:</h3>
               <p className="text-grey-500 transition-colors duration-300 hover:text-gray-400">
@@ -120,7 +120,7 @@ const UltimasNoticias = () => {
 
           <div className="relative">
             <div className="dot"></div>
-           <a href="#" target="blank"> <div className="pl-10">
+           <a href="https://www.lanacion.com.ar/sociedad/empieza-a-peligrar-la-calidad-de-la-ensenanza-otra-universidad-nacional-alerta-sobre-el-impacto-del-nid18042024/" target="blank"> <div className="pl-10">
               <span className="timeline-date">18 de abril</span>
               <h3 className="timeline-title font-suecaslab1">
                 “Empieza a peligrar la calidad de la enseñanza”:
@@ -134,7 +134,7 @@ const UltimasNoticias = () => {
 
           <div className="relative">
             <div className="dot"></div>
-           <a href="#" target="blank"> <div className="pl-10">
+           <a href="https://www.lanacion.com.ar/deportes/futbol/manuel-neuer-su-gran-record-en-la-champions-league-y-un-particular-elogio-lo-pondria-a-a-la-altura-nid18042024/#:~:text=%E2%80%9CPondr%C3%ADa%20a%20Manuel%20Neuer%20a,con%20ambos%20pies%20es%20incre%C3%ADble." target="blank"> <div className="pl-10">
               <span className="timeline-date">18 de abril</span>
               <h3 className="timeline-title font-suecaslab1">Manuel Neuer</h3>
               <p className="text-grey-500 transition-colors duration-300 hover:text-gray-400">
