@@ -32,7 +32,11 @@ const Cards = () => {
       </a>
 
       <div className="flex flex-col gap-3">
-        <a href="https://www.marca.com/futbol/conference-league/2024/04/18/66217af4268e3ee17e8b456d.html" target="blank" className="flex justify-center">
+        <a
+          href="https://www.marca.com/futbol/conference-league/2024/04/18/66217af4268e3ee17e8b456d.html"
+          target="blank"
+          className="flex justify-center"
+        >
           <article className="md:h-[340px] md:w-[400px] rounded-2xl bg-white shadow-sm flex flex-col justify-center items-center p-6 duration-300 hover:shadow-grey">
             <img src="./images/dibu.jpg" alt="dibu martinez" />
             <div className="p-2">
@@ -48,7 +52,11 @@ const Cards = () => {
           </article>
         </a>
 
-        <a href="https://elpais.com/deportes/futbol/2024-04-18/por-que-lunin-no-se-tiro-en-el-penalti-de-bernardo-silva-y-cambio-la-tanda-el-gol-de-rdt-que-le-convencio-de-aguantar.html" target="blank" className="flex justify-center">
+        <a
+          href="https://elpais.com/deportes/futbol/2024-04-18/por-que-lunin-no-se-tiro-en-el-penalti-de-bernardo-silva-y-cambio-la-tanda-el-gol-de-rdt-que-le-convencio-de-aguantar.html"
+          target="blank"
+          className="flex justify-center"
+        >
           <article className="md:h-[340px] md:w-[400px] rounded-2xl bg-white shadow-sm flex flex-col justify-center items-center p-6 duration-300 hover:shadow-grey">
             <img src="./images/lunin.png" alt="Lunin" />
             <div className="p-2">

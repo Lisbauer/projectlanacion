@@ -9,7 +9,11 @@ const Cards = () => {
         </h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
@@ -32,7 +36,11 @@ const Cards = () => {
             </article>
           </a>
 
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
@@ -56,7 +64,11 @@ const Cards = () => {
             </article>
           </a>
 
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
@@ -79,7 +91,11 @@ const Cards = () => {
             </article>
           </a>
 
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
@@ -105,7 +121,11 @@ const Cards = () => {
             </article>
           </a>
 
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
@@ -129,7 +149,11 @@ const Cards = () => {
             </article>
           </a>
 
-          <a href="https://www.lanacion.com.ar/" target="blank" className="flex justify-center">
+          <a
+            href="https://www.lanacion.com.ar/"
+            target="blank"
+            className="flex justify-center"
+          >
             <article className="h-[370px] w-[320px] overflow-hidden rounded-2xl bg-white shadow-sm duration-300 hover:shadow-grey">
               <img
                 className="h-[180px] w-full object-cover"
